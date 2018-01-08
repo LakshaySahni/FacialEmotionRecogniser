@@ -1,0 +1,413 @@
+###########MOUTH###########
+[10, 64]
+[10, 64]
+[10, 4]
+Logits: [10, 4]
+Labels: [10, 4]
+[2388, 64]
+[2388, 64]
+[2388, 4]
+TRAINING
+Minibatch loss at step 0: 2.608448
+Minibatch accuracy: 30.0%
+Minibatch loss at step 50: 1.188655
+Minibatch accuracy: 40.0%
+Minibatch loss at step 100: 0.578038
+Minibatch accuracy: 80.0%
+Minibatch loss at step 150: 0.584713
+Minibatch accuracy: 80.0%
+Minibatch loss at step 200: 1.061862
+Minibatch accuracy: 60.0%
+Minibatch loss at step 250: 0.613440
+Minibatch accuracy: 80.0%
+Minibatch loss at step 300: 0.804726
+Minibatch accuracy: 70.0%
+Minibatch loss at step 350: 1.167207
+Minibatch accuracy: 40.0%
+Minibatch loss at step 400: 1.066424
+Minibatch accuracy: 50.0%
+Minibatch loss at step 450: 0.283957
+Minibatch accuracy: 100.0%
+Minibatch loss at step 500: 0.725714
+Minibatch accuracy: 70.0%
+Minibatch loss at step 550: 0.176586
+Minibatch accuracy: 100.0%
+Minibatch loss at step 600: 1.124728
+Minibatch accuracy: 50.0%
+Minibatch loss at step 650: 1.300952
+Minibatch accuracy: 50.0%
+Minibatch loss at step 700: 0.649678
+Minibatch accuracy: 80.0%
+Minibatch loss at step 750: 0.672223
+Minibatch accuracy: 80.0%
+Minibatch loss at step 800: 0.939391
+Minibatch accuracy: 60.0%
+Minibatch loss at step 850: 1.040069
+Minibatch accuracy: 30.0%
+Minibatch loss at step 900: 0.824790
+Minibatch accuracy: 60.0%
+Minibatch loss at step 950: 0.832574
+Minibatch accuracy: 70.0%
+Minibatch loss at step 1000: 0.500062
+Minibatch accuracy: 90.0%
+Minibatch loss at step 1050: 0.408093
+Minibatch accuracy: 100.0%
+Minibatch loss at step 1100: 0.973632
+Minibatch accuracy: 80.0%
+Minibatch loss at step 1150: 0.954717
+Minibatch accuracy: 90.0%
+Minibatch loss at step 1200: 0.931773
+Minibatch accuracy: 80.0%
+Minibatch loss at step 1250: 1.282349
+Minibatch accuracy: 40.0%
+Minibatch loss at step 1300: 0.684613
+Minibatch accuracy: 80.0%
+Minibatch loss at step 1350: 0.290405
+Minibatch accuracy: 100.0%
+Minibatch loss at step 1400: 0.838805
+Minibatch accuracy: 50.0%
+Minibatch loss at step 1450: 1.084184
+Minibatch accuracy: 50.0%
+Minibatch loss at step 1500: 1.299969
+Minibatch accuracy: 50.0%
+Minibatch loss at step 1550: 1.470291
+Minibatch accuracy: 50.0%
+Minibatch loss at step 1600: 1.062497
+Minibatch accuracy: 50.0%
+Minibatch loss at step 1650: 0.394400
+Minibatch accuracy: 100.0%
+Minibatch loss at step 1700: 1.012701
+Minibatch accuracy: 80.0%
+Minibatch loss at step 1750: 0.531381
+Minibatch accuracy: 90.0%
+Minibatch loss at step 1800: 0.917179
+Minibatch accuracy: 70.0%
+Minibatch loss at step 1850: 0.201587
+Minibatch accuracy: 100.0%
+Minibatch loss at step 1900: 0.845134
+Minibatch accuracy: 70.0%
+Minibatch loss at step 1950: 1.280088
+Minibatch accuracy: 30.0%
+Minibatch loss at step 2000: 0.739076
+Minibatch accuracy: 70.0%
+Minibatch loss at step 2050: 0.734883
+Minibatch accuracy: 80.0%
+Minibatch loss at step 2100: 0.667328
+Minibatch accuracy: 80.0%
+Minibatch loss at step 2150: 0.906229
+Minibatch accuracy: 80.0%
+Minibatch loss at step 2200: 1.025457
+Minibatch accuracy: 50.0%
+Minibatch loss at step 2250: 1.007087
+Minibatch accuracy: 60.0%
+Minibatch loss at step 2300: 0.794787
+Minibatch accuracy: 70.0%
+Minibatch loss at step 2350: 0.827135
+Minibatch accuracy: 70.0%
+Minibatch loss at step 2400: 0.292671
+Minibatch accuracy: 100.0%
+Minibatch loss at step 2450: 0.994324
+Minibatch accuracy: 60.0%
+Minibatch loss at step 2500: 1.417266
+Minibatch accuracy: 30.0%
+Minibatch loss at step 2550: 0.701843
+Minibatch accuracy: 80.0%
+Minibatch loss at step 2600: 0.759560
+Minibatch accuracy: 70.0%
+Minibatch loss at step 2650: 0.692955
+Minibatch accuracy: 80.0%
+Minibatch loss at step 2700: 0.753786
+Minibatch accuracy: 80.0%
+Minibatch loss at step 2750: 0.851003
+Minibatch accuracy: 80.0%
+Minibatch loss at step 2800: 1.663739
+Minibatch accuracy: 20.0%
+Minibatch loss at step 2850: 0.591991
+Minibatch accuracy: 90.0%
+Minibatch loss at step 2900: 1.031715
+Minibatch accuracy: 60.0%
+Minibatch loss at step 2950: 0.320086
+Minibatch accuracy: 100.0%
+Minibatch loss at step 3000: 1.354235
+Minibatch accuracy: 50.0%
+Minibatch loss at step 3050: 0.706269
+Minibatch accuracy: 80.0%
+Minibatch loss at step 3100: 0.828460
+Minibatch accuracy: 70.0%
+Minibatch loss at step 3150: 1.012037
+Minibatch accuracy: 30.0%
+Minibatch loss at step 3200: 0.695197
+Minibatch accuracy: 80.0%
+Minibatch loss at step 3250: 0.516745
+Minibatch accuracy: 90.0%
+Minibatch loss at step 3300: 0.755951
+Minibatch accuracy: 70.0%
+Minibatch loss at step 3350: 1.359750
+Minibatch accuracy: 30.0%
+Minibatch loss at step 3400: 0.669440
+Minibatch accuracy: 80.0%
+Minibatch loss at step 3450: 0.822172
+Minibatch accuracy: 70.0%
+Minibatch loss at step 3500: 0.328255
+Minibatch accuracy: 100.0%
+Minibatch loss at step 3550: 0.433293
+Minibatch accuracy: 90.0%
+Minibatch loss at step 3600: 0.786737
+Minibatch accuracy: 70.0%
+Minibatch loss at step 3650: 0.917173
+Minibatch accuracy: 70.0%
+Minibatch loss at step 3700: 0.981144
+Minibatch accuracy: 50.0%
+Minibatch loss at step 3750: 0.779352
+Minibatch accuracy: 80.0%
+Minibatch loss at step 3800: 0.633703
+Minibatch accuracy: 80.0%
+Minibatch loss at step 3850: 1.019722
+Minibatch accuracy: 70.0%
+Minibatch loss at step 3900: 0.609518
+Minibatch accuracy: 80.0%
+Minibatch loss at step 3950: 0.779856
+Minibatch accuracy: 70.0%
+Minibatch loss at step 4000: 0.514631
+Minibatch accuracy: 90.0%
+Minibatch loss at step 4050: 0.550654
+Minibatch accuracy: 90.0%
+Minibatch loss at step 4100: 0.608936
+Minibatch accuracy: 80.0%
+Minibatch loss at step 4150: 0.656090
+Minibatch accuracy: 80.0%
+Minibatch loss at step 4200: 0.919891
+Minibatch accuracy: 60.0%
+Minibatch loss at step 4250: 0.837376
+Minibatch accuracy: 70.0%
+Minibatch loss at step 4300: 1.380244
+Minibatch accuracy: 50.0%
+Minibatch loss at step 4350: 0.923498
+Minibatch accuracy: 60.0%
+Minibatch loss at step 4400: 0.744967
+Minibatch accuracy: 80.0%
+Minibatch loss at step 4450: 0.677300
+Minibatch accuracy: 80.0%
+Minibatch loss at step 4500: 1.157702
+Minibatch accuracy: 40.0%
+Minibatch loss at step 4550: 0.930066
+Minibatch accuracy: 60.0%
+Minibatch loss at step 4600: 0.688908
+Minibatch accuracy: 80.0%
+Minibatch loss at step 4650: 0.273763
+Minibatch accuracy: 100.0%
+Minibatch loss at step 4700: 0.477968
+Minibatch accuracy: 90.0%
+Minibatch loss at step 4750: 0.733710
+Minibatch accuracy: 70.0%
+Minibatch loss at step 4800: 0.835229
+Minibatch accuracy: 70.0%
+Minibatch loss at step 4850: 1.184921
+Minibatch accuracy: 30.0%
+Minibatch loss at step 4900: 0.720793
+Minibatch accuracy: 80.0%
+Minibatch loss at step 4950: 0.935597
+Minibatch accuracy: 70.0%
+Minibatch loss at step 5000: 0.603999
+Minibatch accuracy: 80.0%
+Minibatch loss at step 5050: 0.685905
+Minibatch accuracy: 80.0%
+Minibatch loss at step 5100: 0.533313
+Minibatch accuracy: 90.0%
+Minibatch loss at step 5150: 0.981379
+Minibatch accuracy: 70.0%
+Minibatch loss at step 5200: 0.774585
+Minibatch accuracy: 70.0%
+Minibatch loss at step 5250: 0.835580
+Minibatch accuracy: 70.0%
+Minibatch loss at step 5300: 0.813480
+Minibatch accuracy: 70.0%
+Minibatch loss at step 5350: 0.935821
+Minibatch accuracy: 70.0%
+Minibatch loss at step 5400: 0.745165
+Minibatch accuracy: 90.0%
+Minibatch loss at step 5450: 0.659840
+Minibatch accuracy: 80.0%
+Minibatch loss at step 5500: 0.628883
+Minibatch accuracy: 80.0%
+Minibatch loss at step 5550: 0.682554
+Minibatch accuracy: 80.0%
+Minibatch loss at step 5600: 1.242672
+Minibatch accuracy: 40.0%
+Minibatch loss at step 5650: 0.645090
+Minibatch accuracy: 80.0%
+Minibatch loss at step 5700: 1.363551
+Minibatch accuracy: 40.0%
+Minibatch loss at step 5750: 0.286305
+Minibatch accuracy: 100.0%
+Minibatch loss at step 5800: 0.250858
+Minibatch accuracy: 100.0%
+Minibatch loss at step 5850: 1.273244
+Minibatch accuracy: 40.0%
+Minibatch loss at step 5900: 0.888594
+Minibatch accuracy: 50.0%
+Minibatch loss at step 5950: 1.504250
+Minibatch accuracy: 30.0%
+Minibatch loss at step 6000: 0.899681
+Minibatch accuracy: 70.0%
+Minibatch loss at step 6050: 0.875645
+Minibatch accuracy: 70.0%
+Minibatch loss at step 6100: 0.816247
+Minibatch accuracy: 70.0%
+Minibatch loss at step 6150: 0.684237
+Minibatch accuracy: 80.0%
+Minibatch loss at step 6200: 0.559970
+Minibatch accuracy: 90.0%
+Minibatch loss at step 6250: 0.487930
+Minibatch accuracy: 90.0%
+Minibatch loss at step 6300: 1.139287
+Minibatch accuracy: 50.0%
+Minibatch loss at step 6350: 1.531725
+Minibatch accuracy: 40.0%
+Minibatch loss at step 6400: 0.944800
+Minibatch accuracy: 60.0%
+Minibatch loss at step 6450: 1.171871
+Minibatch accuracy: 40.0%
+Minibatch loss at step 6500: 0.805475
+Minibatch accuracy: 60.0%
+Minibatch loss at step 6550: 0.987875
+Minibatch accuracy: 60.0%
+Minibatch loss at step 6600: 0.910031
+Minibatch accuracy: 80.0%
+Minibatch loss at step 6650: 0.608888
+Minibatch accuracy: 80.0%
+Minibatch loss at step 6700: 0.558390
+Minibatch accuracy: 90.0%
+Minibatch loss at step 6750: 0.661138
+Minibatch accuracy: 80.0%
+Minibatch loss at step 6800: 0.700553
+Minibatch accuracy: 80.0%
+Minibatch loss at step 6850: 0.517857
+Minibatch accuracy: 90.0%
+Minibatch loss at step 6900: 0.246651
+Minibatch accuracy: 100.0%
+Minibatch loss at step 6950: 1.362341
+Minibatch accuracy: 40.0%
+Minibatch loss at step 7000: 0.661344
+Minibatch accuracy: 90.0%
+Minibatch loss at step 7050: 1.136840
+Minibatch accuracy: 40.0%
+Minibatch loss at step 7100: 1.303128
+Minibatch accuracy: 50.0%
+Minibatch loss at step 7150: 0.513253
+Minibatch accuracy: 90.0%
+Minibatch loss at step 7200: 0.816170
+Minibatch accuracy: 70.0%
+Minibatch loss at step 7250: 2.581814
+Minibatch accuracy: 0.0%
+Minibatch loss at step 7300: 1.050094
+Minibatch accuracy: 40.0%
+Minibatch loss at step 7350: 0.908772
+Minibatch accuracy: 70.0%
+Minibatch loss at step 7400: 0.900609
+Minibatch accuracy: 60.0%
+Minibatch loss at step 7450: 1.244351
+Minibatch accuracy: 50.0%
+Minibatch loss at step 7500: 0.607762
+Minibatch accuracy: 80.0%
+Minibatch loss at step 7550: 0.912974
+Minibatch accuracy: 60.0%
+Minibatch loss at step 7600: 1.402453
+Minibatch accuracy: 50.0%
+Minibatch loss at step 7650: 0.695406
+Minibatch accuracy: 80.0%
+Minibatch loss at step 7700: 1.405040
+Minibatch accuracy: 50.0%
+Minibatch loss at step 7750: 0.954850
+Minibatch accuracy: 60.0%
+Minibatch loss at step 7800: 3.632391
+Minibatch accuracy: 0.0%
+Minibatch loss at step 7850: 0.873464
+Minibatch accuracy: 60.0%
+Minibatch loss at step 7900: 0.733937
+Minibatch accuracy: 70.0%
+Minibatch loss at step 7950: 0.818512
+Minibatch accuracy: 70.0%
+Minibatch loss at step 8000: 0.658854
+Minibatch accuracy: 80.0%
+Minibatch loss at step 8050: 0.882470
+Minibatch accuracy: 70.0%
+Minibatch loss at step 8100: 0.820862
+Minibatch accuracy: 70.0%
+Minibatch loss at step 8150: 1.588799
+Minibatch accuracy: 10.0%
+Minibatch loss at step 8200: 0.781631
+Minibatch accuracy: 80.0%
+Minibatch loss at step 8250: 1.033938
+Minibatch accuracy: 50.0%
+Minibatch loss at step 8300: 0.485581
+Minibatch accuracy: 90.0%
+Minibatch loss at step 8350: 3.001517
+Minibatch accuracy: 0.0%
+Minibatch loss at step 8400: 0.993510
+Minibatch accuracy: 50.0%
+Minibatch loss at step 8450: 1.019381
+Minibatch accuracy: 60.0%
+Minibatch loss at step 8500: 0.345277
+Minibatch accuracy: 100.0%
+Minibatch loss at step 8550: 0.271796
+Minibatch accuracy: 100.0%
+Minibatch loss at step 8600: 0.835293
+Minibatch accuracy: 70.0%
+Minibatch loss at step 8650: 0.521440
+Minibatch accuracy: 90.0%
+Minibatch loss at step 8700: 1.131929
+Minibatch accuracy: 30.0%
+Minibatch loss at step 8750: 1.086596
+Minibatch accuracy: 60.0%
+Minibatch loss at step 8800: 1.512122
+Minibatch accuracy: 60.0%
+Minibatch loss at step 8850: 0.624019
+Minibatch accuracy: 80.0%
+Minibatch loss at step 8900: 0.324767
+Minibatch accuracy: 100.0%
+Minibatch loss at step 8950: 0.571397
+Minibatch accuracy: 90.0%
+Minibatch loss at step 9000: 0.613015
+Minibatch accuracy: 90.0%
+Minibatch loss at step 9050: 0.689595
+Minibatch accuracy: 80.0%
+Minibatch loss at step 9100: 0.660666
+Minibatch accuracy: 80.0%
+Minibatch loss at step 9150: 0.938293
+Minibatch accuracy: 70.0%
+Minibatch loss at step 9200: 1.207976
+Minibatch accuracy: 30.0%
+Minibatch loss at step 9250: 1.186073
+Minibatch accuracy: 50.0%
+Minibatch loss at step 9300: 0.737214
+Minibatch accuracy: 90.0%
+Minibatch loss at step 9350: 0.821291
+Minibatch accuracy: 70.0%
+Minibatch loss at step 9400: 0.754922
+Minibatch accuracy: 70.0%
+Minibatch loss at step 9450: 0.681068
+Minibatch accuracy: 80.0%
+Minibatch loss at step 9500: 1.093054
+Minibatch accuracy: 50.0%
+Minibatch loss at step 9550: 0.725132
+Minibatch accuracy: 80.0%
+Minibatch loss at step 9600: 0.818167
+Minibatch accuracy: 70.0%
+Minibatch loss at step 9650: 1.319405
+Minibatch accuracy: 50.0%
+Minibatch loss at step 9700: 0.605814
+Minibatch accuracy: 80.0%
+Minibatch loss at step 9750: 1.424753
+Minibatch accuracy: 30.0%
+Minibatch loss at step 9800: 0.735033
+Minibatch accuracy: 70.0%
+Minibatch loss at step 9850: 0.857732
+Minibatch accuracy: 70.0%
+Minibatch loss at step 9900: 0.661129
+Minibatch accuracy: 80.0%
+Minibatch loss at step 9950: 1.088114
+Minibatch accuracy: 70.0%
+Average Accuracy :  67.273
+TESTING
+Average Testing Accuracy :  72.9480737018
